@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kiz0n0oVqIQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryan\\source\\repos\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryan\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

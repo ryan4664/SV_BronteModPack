@@ -1,0 +1,16 @@
+﻿{
+  // item categories that can be sold in shops, regardless of what SObject.canBeShipped() returns
+  "items": [
+    // spring foraging bundle
+    16,
+    18,
+    20,
+    22,
+    // summer foraging bundle
+    398,
+    396,
+    2,
+    4,
+    25
+  ]
+}

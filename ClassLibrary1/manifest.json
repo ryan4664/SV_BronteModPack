@@ -1,0 +1,10 @@
+﻿{
+    "Name": "classproject1",
+    "Author": "ryan4664",
+    "Version": "1.0.0",
+    "Description": "This is a test",
+    "UniqueID": "ryan4554.ClassLibrary1",
+    "EntryDll": "classlibrary1.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+}
